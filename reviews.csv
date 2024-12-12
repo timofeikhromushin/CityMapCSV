@@ -1,0 +1,11 @@
+id,rating,review_text,user_id,location_id
+rev1,5,Отличное место,user1,loc1
+rev2,4,Очень понравилось,user2,loc2
+rev3,3,Средненько,user3,loc3
+rev4,5,Превосходно!,user4,loc4
+rev5,2,Не понравилось,user5,loc5
+rev6,4,Хорошее место,user6,loc6
+rev7,3,Неплохо,user7,loc7
+rev8,5,Рекомендую!,user8,loc8
+rev9,1,Ужасно,user9,loc9
+rev10,4,Приятное впечатление,user10,loc10
